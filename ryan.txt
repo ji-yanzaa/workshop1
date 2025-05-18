@@ -1,3 +1,2 @@
 nama: ryan Hidayat
 divisi: programming
-sub divisi: web programing
